@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="7849ed8d-c137-44f2-80ec-b2afe62f3063" />
+  <Project Path="PetersBilbaseLib/PetersBilbaseLib.csproj" />
+  <Project Path="TestPetersBilbaseLib/TestPetersBilbaseLib.csproj" />
+</Solution>
